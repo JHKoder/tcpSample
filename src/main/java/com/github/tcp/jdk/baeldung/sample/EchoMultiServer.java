@@ -1,4 +1,4 @@
-package com.github.tcp.jdk.bealdung.sample;
+package com.github.tcp.jdk.baeldung.sample;
 
 // GreetServer , EchoServer 와 차이점은 연결 거부 예외나 서버의 연결 재성정 없이 동일한 클라이언트가 연결을 끊었다가 다시 연결할수 있다
 // 이 클래스는 여러 클라이언트의 여러 요청에 대해 더 강력하고 탄력적임

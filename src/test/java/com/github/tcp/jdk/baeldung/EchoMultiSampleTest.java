@@ -1,7 +1,7 @@
-package com.github.tcp.jdk.bealdung;
+package com.github.tcp.jdk.baeldung;
 
-import com.github.tcp.jdk.bealdung.sample.EchoClient;
-import com.github.tcp.jdk.bealdung.sample.EchoMultiServer;
+import com.github.tcp.jdk.baeldung.sample.EchoClient;
+import com.github.tcp.jdk.baeldung.sample.EchoMultiServer;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.util.concurrent.Executors;
