@@ -1,6 +1,6 @@
-package com.github.tcp.jdk.bealdung;
+package com.github.tcp.jdk.baeldung;
 
-import com.github.tcp.jdk.bealdung.sample.GreetClient;
+import com.github.tcp.jdk.baeldung.sample.GreetClient;
 import java.io.IOException;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

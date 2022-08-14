@@ -1,4 +1,4 @@
-package com.github.tcp.jdk.bealdung.sample;
+package com.github.tcp.jdk.baeldung.sample;
 
 import java.io.BufferedReader;
 import java.io.IOException;

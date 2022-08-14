@@ -1,6 +1,6 @@
-package com.github.tcp.jdk.bealdung;
+package com.github.tcp.jdk.baeldung;
 
-import com.github.tcp.jdk.bealdung.sample.EchoClient;
+import com.github.tcp.jdk.baeldung.sample.EchoClient;
 import java.io.IOException;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
